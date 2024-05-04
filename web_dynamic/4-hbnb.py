@@ -20,7 +20,7 @@ def close_db(error):
             storage.close()
 
 
-            @app.route('/2-hbnb/', strict_slashes=False)
+            @app.route('/4-hbnb/', strict_slashes=False)
             def hbnb():
                     """ HBNB is alive! """
                         # ajouter
@@ -49,3 +49,4 @@ def close_db(error):
                                                                             if __name__ == "__main__":
                                                                                     """ Main Function """
                                                                                         app.run(host='0.0.0.0', port=5000)
+
