@@ -23,7 +23,7 @@ def close_db(error):
 @app.route('/4-hbnb/', strict_slashes=False)
 def hbnb():
     """ HBNB is alive! """
-    # ajouter
+    # ajouter Task 1
     cache_id = uuid.uuid4()
 
     states = storage.all(State).values()
