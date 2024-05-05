@@ -154,11 +154,18 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+* Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+* Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+* Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+* David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+* Said LAMGHARI - [Github](https://github.com/SaidLamghari)
+* Soukaina AIT GAGHOU - [Github](https://github.com/Soukaina111)
 
 Second part of Airbnb: Joann Vuong
+
+# AirBnB clone - Web dynamic
+This project involves creating an AirBnB clone with a dynamic web interface. The clone will have both frontend and backend components, with the frontend developed using HTML, CSS, and JavaScript, and the backend implemented in Python using Flask. The project is to be completed in teams of two people Said LAMGHARI - [Github](https://github.com/SaidLamghari) Soukaina AIT GAGHOU - [Github](https://github.com/Soukaina111) 
+
+
 ## License
 Public Domain. No copy write protection. 
